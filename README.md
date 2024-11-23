@@ -1,6 +1,6 @@
 # apexfly
 
-A new Flutter project.
+este es un projecto realizado para mostrar que se puede hacer una aplicacion hibrida entre flutter como fronted y oracle APEX como fronted
 
 ## Getting Started
 
